@@ -1,3 +1,0 @@
-Command failed: "c:/coding/cf test/Codeforces Round 790 Div. 4/B_Equal_Candies/Tests/a.exe" 1 < "c:/coding/cf test/Codeforces Round 790 Div. 4/B_Equal_Candies/Tests/input_1.txt" > "c:/coding/cf test/Codeforces Round 790 Div. 4/B_Equal_Candies/Tests/code_output_1.txt"
-terminate called after throwing an instance of 'std::ios_base::failure'
-  what():  basic_filebuf::underflow error reading the file

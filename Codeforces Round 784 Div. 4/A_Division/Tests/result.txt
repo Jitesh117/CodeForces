@@ -1,0 +1,35 @@
+Test 1 Passed
+
+Input 1: 
+7
+-789
+1299
+1300
+1399
+1400
+1679
+2300
+
+
+Expected Output : 
+Division 4
+Division 4
+Division 4
+Division 4
+Division 3
+Division 2
+Division 1
+
+
+Obtained Output : 
+Division 4
+Division 4
+Division 4
+Division 4
+Division 3
+Division 2
+Division 1
+
+
+________________________________________________________
+
