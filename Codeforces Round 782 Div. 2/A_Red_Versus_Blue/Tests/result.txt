@@ -1,0 +1,55 @@
+Test 1 Failed
+
+Input 1: 
+3
+7 4 3
+6 5 1
+19 13 6
+
+
+Expected Output : 
+RBRBRBR
+RRRBRR
+RRBRRBRRBRRBRRBRRBR
+
+
+Obtained Output : 
+RBBBBBB
+RRRRRB
+RRBRBRBRBRBRBRBRBRB
+
+
+________________________________________________________
+
+Test 2 Failed
+
+Input 2: 
+6
+3 2 1
+10 6 4
+11 6 5
+10 9 1
+10 8 2
+11 9 2
+
+
+Expected Output : 
+RBR
+RRBRBRBRBR
+RBRBRBRBRBR
+RRRRRBRRRR
+RRRBRRRBRR
+RRRBRRRBRRR
+
+
+Obtained Output : 
+RRB
+RBBBBBBBBB
+RBBBBBBBBBB
+RRRRRRRRRB
+RRRRBRRRBR
+RRRRBRRRBRR
+
+
+________________________________________________________
+
