@@ -1,0 +1,21 @@
+Command failed: g++ -o "c:/coding/CodeForces/B_Array_Cloning_Technique/Tests/a.exe" "c:/coding/CodeForces/B_Array_Cloning_Technique/B_Array_Cloning_Technique.cpp" -std=c++14
+c:/coding/CodeForces/B_Array_Cloning_Technique/B_Array_Cloning_Technique.cpp: In function 'void solve()':
+c:/coding/CodeForces/B_Array_Cloning_Technique/B_Array_Cloning_Technique.cpp:17:20: error: expected unqualified-id before '[' token
+         for (auto &[x, y] : q) {
+                    ^
+c:/coding/CodeForces/B_Array_Cloning_Technique/B_Array_Cloning_Technique.cpp:17:20: error: expected ';' before '[' token
+c:/coding/CodeForces/B_Array_Cloning_Technique/B_Array_Cloning_Technique.cpp:17:21: error: 'x' was not declared in this scope
+         for (auto &[x, y] : q) {
+                     ^
+c:/coding/CodeForces/B_Array_Cloning_Technique/B_Array_Cloning_Technique.cpp:17:24: error: 'y' was not declared in this scope
+         for (auto &[x, y] : q) {
+                        ^
+c:/coding/CodeForces/B_Array_Cloning_Technique/B_Array_Cloning_Technique.cpp: In lambda function:
+c:/coding/CodeForces/B_Array_Cloning_Technique/B_Array_Cloning_Technique.cpp:17:27: error: expected '{' before ':' token
+         for (auto &[x, y] : q) {
+                           ^
+c:/coding/CodeForces/B_Array_Cloning_Technique/B_Array_Cloning_Technique.cpp: In function 'void solve()':
+c:/coding/CodeForces/B_Array_Cloning_Technique/B_Array_Cloning_Technique.cpp:17:27: error: expected ';' before ':' token
+c:/coding/CodeForces/B_Array_Cloning_Technique/B_Array_Cloning_Technique.cpp:17:27: error: expected primary-expression before ':' token
+c:/coding/CodeForces/B_Array_Cloning_Technique/B_Array_Cloning_Technique.cpp:17:27: error: expected ')' before ':' token
+c:/coding/CodeForces/B_Array_Cloning_Technique/B_Array_Cloning_Technique.cpp:17:27: error: expected primary-expression before ':' token
