@@ -17,7 +17,7 @@ void solve()
     sort(arr.begin(),arr.end());
     int x0= 0;
     ll curx= 1, ansdis= 0;
-    vi ans(n,1e9);
+    vi ans(n);
    
     for (int i=n-1;i>=0;--i) {
         int visidx = arr[i].second;
