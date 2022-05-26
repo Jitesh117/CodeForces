@@ -4,7 +4,8 @@ typedef long long ll;
 typedef vector<int> vi;
 
 void solve()
-{
+{   
+    int a;
     int n;
     vi v(n);
     for(int i = 0;i<n;i++)
