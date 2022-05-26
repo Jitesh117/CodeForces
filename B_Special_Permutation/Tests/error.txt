@@ -1,0 +1,3 @@
+Command failed: "c:/coding/CodeForces/B_Special_Permutation/Tests/a.exe" 1 < "c:/coding/CodeForces/B_Special_Permutation/Tests/input_1.txt" > "c:/coding/CodeForces/B_Special_Permutation/Tests/code_output_1.txt"
+terminate called after throwing an instance of 'std::bad_alloc'
+  what():  std::bad_alloc

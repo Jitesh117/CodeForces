@@ -5,8 +5,21 @@ typedef vector<int> vi;
 
 void solve()
 {
-    
+    int n;
+    vi v(n);
+    for(int i = 0;i<n;i++)
+        cin >> v[i];
+    int count = 0;
+    while(1)
+    {
+        for(int i = 0;i<n;i++)
+            if(v[i]%2 == 0)
+                v[i]/=2;
+            else
+                break;
 
+    }
+    
 }
 
 int main()
