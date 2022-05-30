@@ -1,4 +1,4 @@
-Test 1 Passed
+Test 1 Failed
 
 Input 1: 
 9
@@ -26,12 +26,12 @@ Expected Output :
 
 
 Obtained Output : 
--1
-1
-11
-110
+-2
+2
+20
+10
 190
-9012345679
+9012345678
 -87611785637
 1
 0

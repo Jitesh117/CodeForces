@@ -19,18 +19,19 @@ void solve()
             ans = x-1;
         else
             ans = x-n-1;
-        
     }
     else
     {
         if( t == 0)
-            ans = x;
+            ans = x-1;
         else if(t == 1)
-            ans = x-n;
+            ans = x-n-1;
         else if(t == 2)
-            ans = x+1;
+            ans = x+n;
         else
-            ans = x+n+1;
+            ans = x;
+
+
     }
     cout << ans << endl;
 }
