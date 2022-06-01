@@ -1,0 +1,45 @@
+Test 1 Passed
+
+Input 1: 
+tour
+
+
+Expected Output : 
+.t.r
+
+
+Obtained Output : 
+.t.r
+
+________________________________________________________
+
+Test 2 Passed
+
+Input 2: 
+Codeforces
+
+
+Expected Output : 
+.c.d.f.r.c.s
+
+
+Obtained Output : 
+.c.d.f.r.c.s
+
+________________________________________________________
+
+Test 3 Passed
+
+Input 3: 
+aBAcAba
+
+
+Expected Output : 
+.b.c.b
+
+
+Obtained Output : 
+.b.c.b
+
+________________________________________________________
+
