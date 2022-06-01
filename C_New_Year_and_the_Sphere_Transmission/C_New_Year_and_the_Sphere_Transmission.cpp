@@ -5,14 +5,14 @@ typedef vector<int> vi;
 
 void solve()
 {
-   ll N; cin >> N;
+   ll n; cin >> n;
 	vector<ll> ans;
 
-	for (ll i = 1; i*i <= N; ++i) {
-		if (N%i==0) {
-			ans.push_back(N*(i-1)/2 + i);
-			if (i*i!=N) {
-				ans.push_back(N*(N/i-1)/2 + N/i);
+	for (ll i = 1; i*i <= n; ++i) {
+		if (n%i==0) {
+			ans.push_back(n*(i-1)/2 + i);
+			if (i*i!=n) {
+				ans.push_back(n*(n/i-1)/2 + n/i);
 			}
 		}
 	}
