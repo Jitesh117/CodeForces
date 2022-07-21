@@ -1,0 +1,39 @@
+Test 1 Failed
+
+Input 1: 
+3
+5
+abab
+ab
+abc
+abacb
+c
+3
+x
+xx
+xxx
+8
+codeforc
+es
+codes
+cod
+forc
+forces
+e
+code
+
+
+Expected Output : 
+10100
+011
+10100101
+
+
+Obtained Output : 
+11111
+
+
+
+
+________________________________________________________
+

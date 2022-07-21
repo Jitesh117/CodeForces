@@ -1,0 +1,44 @@
+Test 1 Passed
+
+Input 1: 
+10
+YES
+yES
+yes
+Yes
+YeS
+Noo
+orZ
+yEz
+Yas
+XES
+
+
+Expected Output : 
+YES
+YES
+YES
+YES
+YES
+NO
+NO
+NO
+NO
+NO
+
+
+Obtained Output : 
+YES
+YES
+YES
+YES
+YES
+NO
+NO
+NO
+NO
+NO
+
+
+________________________________________________________
+

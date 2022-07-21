@@ -2,23 +2,27 @@
 using namespace std;
 typedef long long ll;
 typedef vector<int> vi;
-typedef vector<long long> vl;
-void solve()1
+
+void solve()
 {
-    int n,x=0,y,nrg=0,result=0;
-    cin >>n;
-    for(int i = 1;i<=n;i++)
-    {
-        cin >> y;
-        nrg += (x-y);
-        if(nrg<0)
+    string s;
+    cin >> s;
+    vi v(26,0);
+    for(int i = 0;i<s.size();i++)
+        v[s[i]-'a']++;
+    int t =s[0] - 'a';
+    int cnt = v[t];
+    unordered_set<char> res;
+    for(int i = 0;i<26;i++)
+        if(v[i]>0 and v[i]!=cnt)
             {
-                result+=-nrg;
-                nrg = 0;
+                cout << -1;
+                return;
             }
-        x = y;
-    }
-    cout << result <<endl;
+        else
+        {
+            res.insert(v[i]+'a');
+        }
     
 }
 

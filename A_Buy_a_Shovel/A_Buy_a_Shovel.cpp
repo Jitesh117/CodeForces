@@ -2,24 +2,21 @@
 using namespace std;
 typedef long long ll;
 typedef vector<int> vi;
-typedef vector<long long> vl;
-void solve()1
+
+void solve()
 {
-    int n,x=0,y,nrg=0,result=0;
-    cin >>n;
-    for(int i = 1;i<=n;i++)
-    {
-        cin >> y;
-        nrg += (x-y);
-        if(nrg<0)
-            {
-                result+=-nrg;
-                nrg = 0;
-            }
-        x = y;
+    int k,r;
+    cin >> k >>r;
+    int h=1,i=0;
+    bool b = true;
+    while (b) {
+        i++;
+        h = k * i;
+        if (h % 10 == 0 || h % 10 == r) {
+            b = false;
+        }
     }
-    cout << result <<endl;
-    
+    cout << i;
 }
 
 int main()

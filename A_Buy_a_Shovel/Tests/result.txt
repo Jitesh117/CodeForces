@@ -1,0 +1,45 @@
+Test 1 Passed
+
+Input 1: 
+117 3
+
+
+Expected Output : 
+9
+
+
+Obtained Output : 
+9
+
+________________________________________________________
+
+Test 2 Passed
+
+Input 2: 
+237 7
+
+
+Expected Output : 
+1
+
+
+Obtained Output : 
+1
+
+________________________________________________________
+
+Test 3 Passed
+
+Input 3: 
+15 2
+
+
+Expected Output : 
+2
+
+
+Obtained Output : 
+2
+
+________________________________________________________
+
