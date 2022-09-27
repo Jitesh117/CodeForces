@@ -1,0 +1,32 @@
+Test 1 Failed
+
+Input 1: 
+null
+
+
+
+Expected Output : 
+2
+
+
+Obtained Output : 
+0
+
+________________________________________________________
+
+Test 2 Failed
+
+Input 2: 
+null
+
+
+
+Expected Output : 
+-3
+
+
+Obtained Output : 
+0
+
+________________________________________________________
+
