@@ -1,0 +1,48 @@
+Test 1 Failed
+
+Input 1: 
+null
+
+
+
+Expected Output : 
+TRIANGLE
+
+
+Obtained Output : 
+SEGMENT
+
+________________________________________________________
+
+Test 2 Passed
+
+Input 2: 
+null
+
+
+
+Expected Output : 
+SEGMENT
+
+
+Obtained Output : 
+SEGMENT
+
+________________________________________________________
+
+Test 3 Failed
+
+Input 3: 
+null
+
+
+
+Expected Output : 
+IMPOSSIBLE
+
+
+Obtained Output : 
+SEGMENT
+
+________________________________________________________
+
