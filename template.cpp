@@ -36,13 +36,18 @@ vector<int> factor(int n)
     return f;
 }
 
-int gcd(int a, int b)
+ll gcd(ll a, ll b)
 {
+    if (b > a)
+    {
+        return gcd(b, a);
+    }
     if (b == 0)
+    {
         return a;
-    return (b, a % b);
+    }
+    return gcd(b, a % b);
 }
-
 int modpow(int x, int n, int m)
 {
     if (n == 0)
@@ -56,7 +61,6 @@ int modpow(int x, int n, int m)
 
 void solve()
 {
-    
 }
 
 int main()
