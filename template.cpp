@@ -4,6 +4,10 @@ typedef long long ll;
 typedef vector<int> vi;
 typedef vector<long long> vl;
 
+#define nline  "\n"
+#define pb push_back
+#define PI 3.141592653589793238462
+
 bool isprime(int x)
 {
     long long n = INT_MAX;
