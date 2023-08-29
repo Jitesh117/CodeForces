@@ -1,0 +1,39 @@
+Test 1 Passed
+
+Input 1: 
+4
+Icosahedron
+Cube
+Tetrahedron
+Dodecahedron
+
+
+Expected Output : 
+42
+
+
+Obtained Output : 
+42
+
+
+________________________________________________________
+
+Test 2 Passed
+
+Input 2: 
+3
+Dodecahedron
+Octahedron
+Octahedron
+
+
+Expected Output : 
+28
+
+
+Obtained Output : 
+28
+
+
+________________________________________________________
+

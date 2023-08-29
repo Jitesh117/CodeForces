@@ -1,0 +1,32 @@
+Test 1 Passed
+
+Input 1: 
+27
+
+
+Expected Output : 
+22
+
+
+Obtained Output : 
+22
+
+
+________________________________________________________
+
+Test 2 Passed
+
+Input 2: 
+4545
+
+
+Expected Output : 
+4444
+
+
+Obtained Output : 
+4444
+
+
+________________________________________________________
+
