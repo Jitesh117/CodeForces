@@ -1,0 +1,51 @@
+Test 1 Passed
+
+Input 1: 
+wjmzbmr
+
+
+
+Expected Output : 
+CHAT WITH HER!
+
+
+Obtained Output : 
+CHAT WITH HER!
+
+
+________________________________________________________
+
+Test 2 Passed
+
+Input 2: 
+xiaodao
+
+
+
+Expected Output : 
+IGNORE HIM!
+
+
+Obtained Output : 
+IGNORE HIM!
+
+
+________________________________________________________
+
+Test 3 Passed
+
+Input 3: 
+sevenkplus
+
+
+
+Expected Output : 
+CHAT WITH HER!
+
+
+Obtained Output : 
+CHAT WITH HER!
+
+
+________________________________________________________
+
